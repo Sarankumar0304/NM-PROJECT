@@ -1,2 +1,2 @@
 # NM-PROJECT
- traffic monitoring
+Traffic monitoring, enhanced by the Internet of Things (IoT), utilizes interconnected sensors and devices placed on roadways and vehicles to collect real-time traffic data. These sensors track vehicle movements, speed, and congestion levels, sending this information to centralized systems for analysis. IoT-powered traffic monitoring enables dynamic traffic signal adjustments, quicker incident detection, and predictive analytics for congestion management. This technology greatly enhances road safety, reduces congestion, and enables smarter urban planning by providing authorities with actionable insights to improve traffic flow and commuter experiences
